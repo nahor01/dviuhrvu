@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+}
+#para2 {
+    height: 92vh;
+    width: 100vw;
+    background-color:#ffd6ff;
+    padding-top: 2vh;
+    padding-left: 2vw;
+    padding-right: 2vw;
+}
+button {
+    border-radius: 5px;
+}
+#pagecolor {
+    background-color: #ffd6ff;
+    height: 100vh;
+    width: 100vw;
+}
